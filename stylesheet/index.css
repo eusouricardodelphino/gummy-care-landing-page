@@ -1,0 +1,11 @@
+header {
+    background-color: #febdd3;
+}
+
+header .nav-link {
+    color: #990005;
+}
+
+header .nav-link:hover {
+    color: #e14072
+}
