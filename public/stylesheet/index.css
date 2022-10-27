@@ -30,7 +30,26 @@ nav a .brand {
     max-width: 100px;
 }
 
-main .container img {
-    width: 250px
+main .headline {
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: center;
+}
+
+
+main .container figure {
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+main .container img  {
+    width: 100%;
+    max-width: 250px;
+}
+
+main .do-que-somos-feitos {
+    text-align: center;
+    width: 100%;
 }
 
