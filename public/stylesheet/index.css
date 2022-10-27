@@ -36,7 +36,6 @@ main .headline {
     text-align: center;
 }
 
-
 main .container figure {
     width: 100%;
     max-width: 250px;
@@ -51,5 +50,16 @@ main .container img  {
 main .do-que-somos-feitos {
     text-align: center;
     width: 100%;
+    background-color: #febdd3;
+    padding: 30px;
+    box-sizing: border-box;
+    color: #fbef8d
+}
+
+main .do-que-somos-feitos img {
+    max-width: 600px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
